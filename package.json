@@ -1,0 +1,15 @@
+{
+  "name": "scamPredict",
+  "version": "1.0.0",
+  "description": "Use TensorFlow to train a model for detecting scam URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohdrafhanmohdamin",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "csv-parser": "^3.2.0"
+  }
+}
